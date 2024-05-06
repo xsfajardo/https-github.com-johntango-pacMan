@@ -1,1 +1,2 @@
-# https-github.com-johntango-pacMan
+npm install
+
